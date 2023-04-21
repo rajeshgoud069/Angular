@@ -16,7 +16,8 @@ export class PropertyCardComponent implements OnInit {
   Property:any = {
     "Id":1,
     "Type": "House",
-    "Price":1200
+    "Price":1200,
+    "Area": 2000
   }
 
 }
