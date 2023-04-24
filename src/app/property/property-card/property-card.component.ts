@@ -18,7 +18,8 @@ export class PropertyCardComponent implements OnInit {
     "Type": "House",
     "Price":1200,
     "Area": 2000,
-    "Location" : "Newcastle"
+    "Location" : "Newcastle",
+    "Discount": "50%"
   }
 
 }
